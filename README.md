@@ -22,3 +22,6 @@ The jorunal consists following sections
     3.2 scikit-learn libraray learning 
         
         Clustring algorithm, Associataion rule algorithm, Dececision tree, Naive bayes algorithm
+
+4. LeetCode problem solving 
+    The directory contains the problem I finished in LeetCode websites
