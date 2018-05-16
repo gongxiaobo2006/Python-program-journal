@@ -26,3 +26,10 @@ The jorunal consists following sections
 4. LeetCode problem solving 
 
         The directory contains the problem I finished in LeetCode websites
+        
+        current solved questions:
+        279. Perfect Square
+        695. Max Area of Island
+        771. Jewels and Stones
+        804. Unique Morse Code Words
+        832. Flipping an Image
