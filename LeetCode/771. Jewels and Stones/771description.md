@@ -38,8 +38,8 @@ class Solution:
 ```
 
 ### Codes Explanation:
-The problem here is to find the element from *<font color=#DC143C size=72>color=#00ffff</font>J* contained in *S*. 
-Under the circumstance, just traversal the list of *S* and compared with element in *J*.
+The problem here is to find the element from **J** contained in **S**. 
+Under the circumstance, just traversal the list of **S** and compared with element in **J**.
 And print out the value of counter so that the problem was solved. 
 
 
